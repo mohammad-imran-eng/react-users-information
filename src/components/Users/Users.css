@@ -1,0 +1,29 @@
+body {
+    border-right: 20px solid rgb(235, 51, 5);
+    border-radius: 5px;
+    width: 800px;
+}
+.sectionStyle {
+    border-left: 5px solid tomato;
+    border-bottom: 1px solid black;
+    border-top: 1px solid black;
+    border-right: 1px solid black;
+    padding-bottom: 20px;
+    margin: 20px;
+    border-radius: 5px;
+    line-height: 12px;
+}
+.imgStyle {
+    margin-bottom: 10px;
+    height: 160px;
+    width: 160px;
+    border-radius: 50%;
+}
+.buttonStyle {
+    width: 95px;
+    height: 40px;
+    background-color: crimson;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
